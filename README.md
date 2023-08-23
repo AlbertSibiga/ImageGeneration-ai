@@ -27,10 +27,11 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/AlbertSibiga/ai-image-generator.git
+git clone https://github.com/AlbertSibiga/ImageGeneration-ai
+.git
 
 # Go into the repository
-cd ai-image-generator
+cd ImageGeneration-ai
 
 # Setup default environment variables
 
