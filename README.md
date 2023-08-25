@@ -27,7 +27,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/AlbertSibiga/ImageGeneration-ai
+git clone https://github.com/CharmingDever812/ImageGeneration-ai
 .git
 
 # Go into the repository
